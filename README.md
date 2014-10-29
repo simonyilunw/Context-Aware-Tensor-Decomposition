@@ -1,9 +1,7 @@
 Context-Aware-Tensor-Decomposition
 ==================================
 
-Context Aware Tensor Decomposition method for our KDD 2014 and UbiComp 2014 paper
-
-Please cite the following two papers when using the dataset.
+Context Aware Tensor Decomposition method for our KDD 2014 and UbiComp 2014 paper listed below.
 
 [1] Yilun Wang*, Yu Zheng, Yexiang Xue. Travel Time Estimation of a Path using Sparse 
 Trajectories. In the Proc. of KDD 2014
